@@ -1,0 +1,13 @@
+# Do not edit manually
+# This file is used to override language statistics
+*.yaml linguist-detectable=false
+*.woff2 binary
+vendor/* linguist-vendored  
+*.html linguist-vendored   
+*.tsx linguist-detectable
+src/** linguist-detectable
+*.gif binary
+Cargo.lock linguist-generated
+
+*.min.css linguist-generated
+# eof 86abdb93
